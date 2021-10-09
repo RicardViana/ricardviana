@@ -26,7 +26,7 @@ Atualmente, estou estudando as formações da Alura , seguindo um plano de estud
 
 ## Linguagens e Ferramentas
 
-<img align="center" alt="Ricardo-Pbi" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"> <img align="center" alt="Ricardo-Excel" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"> <img align="center" alt="Ricardo-Excel" height="40" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> 
+<img align="center" alt="Ricardo-Pbi" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"> <img align="center" alt="Ricardo-Excel" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"> <img align="center" alt="Ricardo-SQL" height="40" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> <img align="center" alt="Ricardo-SQL2" height="40" width="50" src="https://img.stackshare.io/service/7096/809746be-0b96-4af0-aa2f-5d1aeaa82658.png"> <img align="center" alt="Ricardo-VS" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/512px-Visual_Studio_Icon_2019.png"> <img align="center" alt="Ricardo-PQ" height="40" width="50" src="https://spreadsheeto.com/wp-content/uploads/2019/11/powerpivot-icon-200x200.png"> 
 
 ## Projetos 
 
