@@ -21,13 +21,14 @@ Atualmente, estou estudando as formações da Alura , seguindo um plano de estud
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/ricardo-viana-42485197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardviana" height="30" width="40" /></a>
+<a href = "mailto:ricardviana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="linkedin.com/in/ricardo-viana-42485197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 ## Linguagens e Ferramentas
 
-</a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+<img align="center" alt="Ricardo-Pbi" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png"> <img align="center" alt="Ricardo-Excel" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png"> <img align="center" alt="Ricardo-Excel" height="40" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> 
 
-## Prjetos 
+## Projetos 
 
 ## Challenge BI Alura
 
@@ -38,19 +39,3 @@ https://github.com/RicardViana/Alura_ChallengeBI_Semana2
 https://github.com/RicardViana/Alura_ChallengeBI_Semana3_e_4
 
 <img src="https://user-images.githubusercontent.com/62486279/136662704-e314887f-c56b-48b5-b9d7-b95e89480491.png" width="100"> <img src="https://user-images.githubusercontent.com/62486279/136662691-81486f85-9feb-4dc1-a52b-bfde064e8b1b.png" width="100">
-
-##
-
-##
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
