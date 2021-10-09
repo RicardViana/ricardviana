@@ -30,7 +30,7 @@ Atualmente, estou estudando as formações da Alura , seguindo um plano de estud
 
 ## Projetos 
 
-## Challenge BI Alura
+**Challenge BI Alura**
 
 https://github.com/RicardViana/Alura_ChallengeBI_Semana1
 
