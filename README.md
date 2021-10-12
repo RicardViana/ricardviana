@@ -17,7 +17,7 @@ Atualmente, trabalho na área de precificação (Pricing) no Grupo Petrópolis s
 
 Onde estou tentando a oportunidade de trabalhar com grandes fontes de dados utilizando além do Excel, Power BI e Microsoft SQL Server Management Studio
 
-Atualmente, estou estudando as formações da Alura , seguindo um plano de estudo desenvolvido por mim (https://cursos.alura.com.br/sql-bi-python-data-science-ricardviana1-1629850876937-p209723)
+Atualmente, estou estudando as formações da Alura , seguindo um plano de estudo para a área de dados (https://cursos.alura.com.br/sql-bi-python-data-science-ricardviana1-1629850876937-p209723)
 
 ## Contato
 
