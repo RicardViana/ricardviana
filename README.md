@@ -1,4 +1,4 @@
-### Oi, eu me chamao Ricardo Viana 👋
+### Oi, eu me chamo Ricardo Viana 👋
 
 Graduado em logística e engenharia de produção, apaixonado por tecnologia (principalmente na área de dados), atuando por 7 anos na área de planejamento e controle de produção, onde era responsável por: 
 
