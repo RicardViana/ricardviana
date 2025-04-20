@@ -38,8 +38,9 @@ Atualmente, aplico meus conhecimentos em **BI, análise de dados e automações*
 ## 🚀 Projetos em Destaque
 
 🔍 [Análise Exploratória com Python (EBAC)](https://github.com/RicardViana/analise-exploratoria-ebac)  
-📊 [Challenge BI – Alura](https://github.com/RicardViana/challenge-bi-alura)  
-🤖 [Projeto RPA com VBA e Excel](https://github.com/RicardViana/projeto-rpa-vba-excel)
+📊 [Challenge BI – Alura - Semana 1](https://github.com/RicardViana/ChallengeBI_Alura_Semana1)  
+📊 [Challenge BI – Alura - Semana 2](https://github.com/RicardViana/ChallengeBI_Alura__Semana2)  
+📊 [Challenge BI – Alura - Semana 3 e 4](https://github.com/RicardViana/ChallengeBI_Alura__Semana3_e_4)  
 
 ---
 
