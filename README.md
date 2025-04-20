@@ -16,9 +16,12 @@ Atualmente, aplico meus conhecimentos em **BI, análise de dados e automações*
 
 ## 🎓 Formação
 
-- **Engenharia de Produção** – CEUNSP  
 - **Pós-graduação em Data Analytics** – FIAP / Alura  
-- **Formação Analista de Dados** – EBAC  
+- **Formação Analista de Dados** – EBAC
+- **Formação SQL com Microsoft SQL Server 2017** - Alura
+- **Formação BI e Data Warehouse com SQL Server e Power BI** - Alura
+- **Formação Modelagem de dados** - Alura
+- **Engenharia de Produção** – CEUNSP  
 
 ---
 
