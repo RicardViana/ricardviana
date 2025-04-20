@@ -2,7 +2,8 @@
 
 📍 Salto, SP – Brasil  
 📧 ricardviana1@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ricardvviana/) | [GitHub](https://github.com/RicardViana)
+📱 [11 95475-9800](https://wa.me/5511954759800)   
+🔗 [LinkedIn](https://www.linkedin.com/in/ricardvviana/)   
 
 ---
 
@@ -16,7 +17,7 @@ Atualmente, aplico meus conhecimentos em **BI, análise de dados e automações*
 
 ## 🎓 Formação
 
-- **Pós-graduação em Data Analytics** – FIAP / Alura  
+- **Pós-graduação em Data Analytics** – FIAP + Alura  
 - **Formação Analista de Dados** – EBAC
 - **Formação SQL com Microsoft SQL Server 2017** - Alura
 - **Formação BI e Data Warehouse com SQL Server e Power BI** - Alura
@@ -57,8 +58,8 @@ Atualmente, aplico meus conhecimentos em **BI, análise de dados e automações*
 Fique à vontade para entrar em contato ou conhecer mais sobre meu trabalho:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardvviana/)
-- 💻 [GitHub](https://github.com/RicardViana)
 - 📧 ricardviana1@gmail.com
+- 📱 [11 95475-9800](https://wa.me/5511954759800)   
 
 ---
 
