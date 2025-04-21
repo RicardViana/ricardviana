@@ -1,13 +1,8 @@
 # 👋 Olá, eu sou o Ricardo Viana!
 
-📍 Salto, SP – Brasil  
-📧 ricardviana1@gmail.com  
-📱 [11 95475-9800](https://wa.me/5511954759800)   
-🔗 [LinkedIn](https://www.linkedin.com/in/ricardvviana/)   
-
----
-
 ## 🎯 Sobre mim
+
+📍 Salto, SP – Brasil  
 
 Sou **Analista de BI** com formação em **Engenharia de Produção** e uma transição sólida para a área de **dados**. Minha trajetória combina raciocínio analítico, visão sistêmica e experiência prática com ferramentas que impulsionam a inteligência de negócios e a automação de processos.
 
